@@ -38,7 +38,7 @@ This is a simple HTML webpage showcasing information about the gospel singer Sar
 
 ## Dependencies
 
-- The webpage uses external styles defined in the `style.css` file. Make sure the `style.css` file is in the same directory as the `index.html` file.
+- The webpage uses external styles defined in the `style.css` file. Make sure the `style.css` file is in the same directory as the `web.html` file.
 
 ## Credits
 
