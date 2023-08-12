@@ -1,5 +1,6 @@
 # Photography-website
 Photography is a way of feeling, touching, and of loving.
+ 
  AUTHOR (SHARON KATINDA)
 # Captured Emotions - Sarah K's Gospel Singer Website
 
