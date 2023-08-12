@@ -1,0 +1,164 @@
+
+body {
+  background-color: rgba(0, 128, 11, 0.486); /* light green background color */
+  color: black; 
+}
+ a {
+  color: white; 
+  text-decoration: navy; 
+
+ font-family: 'Times New Roman', serif;;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header and navigation */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 960px;
+}
+nav h1 {
+  margin: 0;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+}
+nav li {
+  margin-right: 20px;
+}
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Welcome message */
+.welcome {
+  text-align: center;
+  padding: 40px 0;
+}
+.welcome h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+.welcome p {
+  font-size: 18px;
+}
+
+/* Slideshow */
+.slideshow {
+  text-align: center;
+  background-color: #f5f5f5;
+  padding: 50px 0;
+}
+.cta-buttons {
+  text-align: center;
+  margin-top: 20px;
+}
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+/* Gallery */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.photo {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+.photo img {
+  max-width: 100%;
+  height: auto;
+}
+.photo h3 {
+  margin-top: 10px;
+  font-size: 18px;
+}
+.photo p {
+  font-size: 14px;
+  color: #777;
+}
+
+/* About */
+.biography {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.biography h3 {
+  font-size: 24px;
+}
+.biography p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Contact */
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+.contact-form h3 {
+  font-size: 24px;
+}
+.contact-form form {
+  margin-top: 20px;
+}
+.contact-form label {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.contact-form button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+.social-links {
+  margin-top: 10px;
+}
+.social-icon {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
