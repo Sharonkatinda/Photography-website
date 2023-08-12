@@ -47,4 +47,5 @@ This is a simple HTML webpage showcasing information about the gospel singer Sar
 ## Contact Information
 
 For more information or inquiries, you can contact the website owner using the contact form in the "Contact" section of the webpage.
+\\LICENSE
 The copyright license is MIT LICENSE.
