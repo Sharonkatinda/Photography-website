@@ -34,7 +34,7 @@ This is a simple HTML webpage showcasing information about the gospel singer Sar
 
 ## How to Use
 
-1. Open the HTML file, named `index.html`, in a web browser to view the webpage.
+1. Open the HTML file, named `web.html`, in a web browser to view the webpage.
 
 ## Dependencies
 
