@@ -9,7 +9,6 @@ This is a simple HTML webpage showcasing information about the gospel singer Sar
 ## Sections
 
 ### Home Section
-
 - The main section of the webpage.
 - Contains a navigation bar with links to different sections of the page.
 - Includes a welcome message and a slideshow with images of the gospel singer.
